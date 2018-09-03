@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
-namespace projekt
+namespace ElectronicsLibrary
 {
 
     /*
@@ -19,7 +19,7 @@ namespace projekt
 
 
 
-    class Elektronika
+    public class Elektronika
     {
         protected double cena;
         protected double pobor_mocy;

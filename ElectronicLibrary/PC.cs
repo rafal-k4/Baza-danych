@@ -2,9 +2,9 @@
 using System.Windows.Forms;
 
 
-namespace projekt
+namespace ElectronicLibrary
 {
-    class PC : Elektronika
+    public class PC : Elektronika
     {
         //--------pola---------
         protected double czestotliwosc_procesora;
