@@ -5,11 +5,11 @@ using System.Collections;
 using System.Data.OleDb;
 
 
-namespace projekt
+namespace ElectronicsLibrary
 {
     //-------------------kolekcje--------------------
 
-    class kolekcjaUrzadzen : ArrayList //gotowa klasa opisująca klasy
+    public class kolekcjaUrzadzen : ArrayList //gotowa klasa opisująca klasy
     {
 
         public bool WyswietlParametryUrzadzenia(int index, System.Windows.Forms.TextBox txtbox)

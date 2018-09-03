@@ -2,9 +2,9 @@
 using System.Windows.Forms;
 
 
-namespace projekt
+namespace ElectronicLibrary
 {
-    class Laptop : PC
+    public class Laptop : PC
     {
         //--------pola---------
         protected double ekran;

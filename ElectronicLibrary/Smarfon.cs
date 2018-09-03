@@ -2,9 +2,9 @@
 using System.Windows.Forms;
 
 
-namespace projekt
+namespace ElectronicLibrary
 {
-    class Smarfon : Laptop
+    public class Smarfon : Laptop
     {
         //--------pola---------
         protected double aparat;
